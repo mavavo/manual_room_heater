@@ -1,0 +1,13 @@
+__pycache__/
+hidden.py
+LED_time_dependent.py
+main_toggling_motor.py
+test.py
+tipps.txt
+toggling_LED.py
+vor_github_upload.txt
+wlan_test.py
+.micropico
+.vscode/
+
+
